@@ -1,0 +1,36 @@
+.text_css{
+    margin: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+button{
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    weight: 20px;
+    height: 30px;
+}
+
+.button_no_sound_css{
+    color: white;
+    background-color: red;
+    border: none;
+
+}
+.button_no_sound_css:hover{
+    background-color: darkred;
+    border: none;
+}
+
+.RESET{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.RESET:hover{
+    background-color: darkred;
+    border: none;
+}
